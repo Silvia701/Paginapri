@@ -1,0 +1,43 @@
+.fondo{
+    
+    background-color:black;
+    text-align: center;
+    font-size: 30px;
+    color:blanchedalmond;
+    height: 70px;
+    position: relative;
+    top:0px;
+  
+  }
+  
+  .fondo1{
+    background-color: green;
+    width: 1332px;
+    height: 580px;
+    position: relative;
+    top:0px;
+  }
+  
+  .caja{
+    background-color: gray;
+    width: 1000px;
+    height: 60px;
+    border: 5px solid black;
+    position: relative;
+    top:490px;
+    left: 160px;
+  }
+
+  video{
+    width: 300px;
+    height: 460px;
+    position: relative;
+    left: 500px;
+    bottom: 65px;
+  }
+
+  h1{
+    text-align: center;
+  }
+ 
+ 
